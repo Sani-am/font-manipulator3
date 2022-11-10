@@ -1,0 +1,31 @@
+.heading{
+    font-size: 20px;
+    color: white;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px gray;
+}
+
+p{
+
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    line-height: 3;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+
+canvas{
+    border: 2px outset darkblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
